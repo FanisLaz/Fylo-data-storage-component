@@ -153,7 +153,7 @@
 .dot {
   position: relative;
   display: inline-block;
-  left: 26em;
+  left: 14.6em;
   height: 11px;
   width: 11px;
   background-color: rgb(255, 255, 255);
@@ -209,6 +209,10 @@
 }
 .max{
   right: 6em;
+}
+
+.dot {
+  left: 26em;
 }
 
 .storage-left{
